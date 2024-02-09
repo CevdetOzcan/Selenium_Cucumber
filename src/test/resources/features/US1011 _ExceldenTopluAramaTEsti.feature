@@ -1,6 +1,7 @@
 
   Feature: US1011 Kullanici excel olarak verilen
 
+    @rapor
     Scenario Outline: TC19 excelden sececegimiz satirdaki urunlerin min urun sayisi test edilir
 
       Given kullanici "toUrl" anasayfaya gider
